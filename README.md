@@ -1,10 +1,13 @@
 # User profile
 
-Tarjetas de perfil realizadas con *HTML* y *CSS*. 
+*¡Hola, Recruiter!* 👋
 
-Una muy buena manera de poner en práctica lo aprendido hasta este momento.
+En esta ocación realicé tarjetas de perfil realizadas con puro HTML y CSS.
 
+Una muy buena manera de seguir practicando... 🎯
 
-Diseño del producto:
+Mirá el resultado final 👇
 
 <img src="https://github.com/lautaronahuelc/user-profile/blob/master/resultado-final.jpg"/>
+
+[VER MAS PROYECTOS](https://github.com/lautaronahuelc?tab=repositories) 👈
