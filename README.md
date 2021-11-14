@@ -1,5 +1,7 @@
 # User profile
 
+*¡Hola de nuevo!* :wave:
+
 En esta ocación realicé tarjetas de perfil realizadas con puro HTML y CSS.
 
 Una muy buena manera de seguir practicando... 🎯
